@@ -1,0 +1,1531 @@
+﻿Log file open, 02/14/19 13:45:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CPP_Defender
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208886
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.594s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Thiire -epicuserid=68f7f9624c6c4d06a6991b762e34dba4 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.14-12.45.11:577][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.14-12.45.11:577][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.14-12.45.11:578][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:578][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:586][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.14-12.45.11:586][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.14-12.45.11:587][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.14-12.45.11:587][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-12.45.11:587][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.14-12.45.11:607][  0]LogHAL: Display: Platform has ~ 16 GB [17129631744 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.14-12.45.11:607][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.14-12.45.11:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-12.45.11:607][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.14-12.45.11:608][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.14-12.45.11:608][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.14-12.45.11:608][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.14-12.45.11:608][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Config/Windows/Engine.ini]
+[2019.02.14-12.45.11:608][  0]LogInit: Computer: DESKTOP-HUMBH2S
+[2019.02.14-12.45.11:608][  0]LogInit: User: thiir
+[2019.02.14-12.45.11:608][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.14-12.45.11:608][  0]LogInit: High frequency timer resolution =2.648436 MHz
+[2019.02.14-12.45.11:608][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.14-12.45.11:608][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.14-12.45.11:608][  0]LogMemory: Process Physical Memory: 101.72 MB used, 101.72 MB peak
+[2019.02.14-12.45.11:608][  0]LogMemory: Process Virtual Memory: 90.65 MB used, 90.65 MB peak
+[2019.02.14-12.45.11:608][  0]LogMemory: Physical Memory: 5905.09 MB used,  10431.00 MB free, 16336.09 MB total
+[2019.02.14-12.45.11:608][  0]LogMemory: Virtual Memory: 4639.78 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.02.14-12.45.11:640][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.14-12.45.11:640][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.14-12.45.11:641][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.02.14-12.45.11:643][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2019.02.14-12.45.11:644][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.14-12.45.11:704][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.14-12.45.11:704][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.14-12.45.11:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-12.45.11:936][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.14-12.45.12:088][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.02.14-12.45.12:089][  0]LogD3D11RHI:       2007/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.14-12.45.12:091][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.14-12.45.12:091][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.14-12.45.12:091][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.14-12.45.12:098][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.14-12.45.12:098][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.14-12.45.12:098][  0]LogWindows: EnumDisplayDevices:
+[2019.02.14-12.45.12:099][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.02.14-12.45.12:099][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.02.14-12.45.12:099][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.02.14-12.45.12:099][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.02.14-12.45.12:100][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.14-12.45.12:100][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.02.14-12.45.12:100][  0]LogD3D11RHI:   Driver Version: 418.81 (internal:25.21.14.1881, unified:418.81)
+[2019.02.14-12.45.12:100][  0]LogD3D11RHI:      Driver Date: 1-30-2019
+[2019.02.14-12.45.12:100][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.02.14-12.45.12:142][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.14-12.45.12:160][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.14-12.45.12:729][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.14-12.45.12:744][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.14-12.45.12:760][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.14-12.45.12:777][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.14-12.45.12:793][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.14-12.45.12:810][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.14-12.45.12:826][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.14-12.45.12:843][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.14-12.45.12:852][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:942][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:943][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-12.45.12:945][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.14-12.45.13:010][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-12.45.13:010][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-12.45.13:036][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-12.45.13:037][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-12.45.13:050][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.14-12.45.13:064][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.14-12.45.13:077][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.14-12.45.13:092][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.14-12.45.13:139][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.14-12.45.13:139][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.14-12.45.13:140][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.14-12.45.13:219][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Intermediate/Shaders/WorkingDirectory/4948/).
+[2019.02.14-12.45.13:219][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/thiir/AppData/Local/Temp/UnrealShaderWorkingDir/D82E010E4E2A9A31D6E9E2A5D83F69F5/'.
+[2019.02.14-12.45.13:222][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.14-12.45.13:222][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.14-12.45.13:222][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.14-12.45.13:794][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.14-12.45.13:851][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/thiir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.14-12.45.13:851][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/thiir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.14-12.45.13:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.14-12.45.13:851][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.14-12.45.13:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.14-12.45.13:851][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.14-12.45.13:866][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.14-12.45.13:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.14-12.45.13:866][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.14-12.45.13:883][  0]LogDerivedDataCache: Using Local data cache path C:/Users/thiir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.14-12.45.13:883][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.14-12.45.13:883][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.14-12.45.13:909][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.14-12.45.13:911][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.14-12.45.13:911][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.14-12.45.14:013][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2019.02.14-12.45.14:362][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-12.45.14:451][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.14-12.45.14:457][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.14-12.45.14:457][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.14-12.45.14:457][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.14-12.45.14:457][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.14-12.45.14:561][  0]LogNetVersion: CPP_Defender 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2927910806)
+[2019.02.14-12.45.15:284][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.224917 seconds
+[2019.02.14-12.45.15:291][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.14-12.45.15:291][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.14-12.45.15:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.14-12.45.16:356][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.14-12.45.16:369][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.14-12.45.17:221][  0]SourceControl: Source control is disabled
+[2019.02.14-12.45.17:222][  0]SourceControl: Source control is disabled
+[2019.02.14-12.45.17:224][  0]SourceControl: Source control is disabled
+[2019.02.14-12.45.17:225][  0]SourceControl: Source control is disabled
+[2019.02.14-12.45.17:432][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.14-12.45.17:531][  0]LogOcInput: OculusInput pre-init called
+[2019.02.14-12.45.17:678][  0]LogEngine: Initializing Engine...
+[2019.02.14-12.45.17:679][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-12.45.17:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.14-12.45.17:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-12.45.17:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.14-12.45.17:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-12.45.17:940][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.14-12.45.17:957][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.14-12.45.17:986][  0]LogInit: XAudio2 using 'Casque pour téléphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-12.45.18:052][  0]LogInit: FAudioDevice initialized.
+[2019.02.14-12.45.18:053][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.14-12.45.18:765][  0]LogDerivedDataCache: Saved boot cache 0.71s 71MB C:/Users/thiir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.14-12.45.18:797][  0]LogInit: Texture streaming: Enabled
+[2019.02.14-12.45.18:910][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.14-12.45.18:931][  0]LogInit: Transaction tracking system initialized
+[2019.02.14-12.45.18:963][  0]BlueprintLog: New page: Editor Load
+[2019.02.14-12.45.19:078][  0]LocalizationService: Localization service is disabled
+[2019.02.14-12.45.19:690][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/' took 0.01s
+[2019.02.14-12.45.19:690][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.14-12.45.19:690][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.14-12.45.19:690][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.14-12.45.19:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.14-12.45.19:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-12.45.19:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.14-12.45.19:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-12.45.19:848][  0]SourceControl: Source control is disabled
+[2019.02.14-12.45.19:848][  0]Cmd: MAP LOAD FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.14-12.45.19:848][  0]LightingResults: New page: Lighting Build
+[2019.02.14-12.45.19:852][  0]MapCheck: New page: Map Check
+[2019.02.14-12.45.19:852][  0]LightingResults: New page: Lighting Build
+[2019.02.14-12.45.21:557][  0]LogAIModule: Creating AISystem for world Monde1
+[2019.02.14-12.45.21:607][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.14-12.45.21:637][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.14-12.45.21:637][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,185ms to complete.
+[2019.02.14-12.45.21:637][  0]LogFileHelpers: Loading map 'Monde1' took 1.789
+[2019.02.14-12.45.21:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-12.45.21:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-12.45.21:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-12.45.21:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-12.45.21:845][  0]LogCollectionManager: Loaded 0 collections in 0.002214 seconds
+[2019.02.14-12.45.21:929][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Collections/' took 0.01s
+[2019.02.14-12.45.21:929][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Developers/thiir/Collections/' took 0.01s
+[2019.02.14-12.45.21:929][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Collections/' took 0.01s
+[2019.02.14-12.45.21:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.14-12.45.21:939][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2651 classes and 620 folders.
+[2019.02.14-12.45.21:947][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-12.45.21:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.21:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-12.45.22:017][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-12.45.22:022][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.14-12.45.22:060][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.14-12.45.22:062][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.14-12.45.22:068][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.14-12.45.22:162][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-12.45.22:319][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-12.45.22:319][  0]LogLoad: (Engine Initialization) Total time: 13.41 seconds
+[2019.02.14-12.45.22:319][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.14-12.45.22:333][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.14-12.45.22:411][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.14-12.45.22:435][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.14-12.45.22:443][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/' took 0.10s
+[2019.02.14-12.45.30:199][920]LogAssetRegistry: Asset discovery search completed in 16.2082 seconds
+[2019.02.14-12.45.30:200][920]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.14-12.45.30:200][920]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.02.14-12.45.45:339][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.46.19:074][673]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.14-12.46.22:098][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.46.54:320][947]LogSlate: Window 'Select Path' being destroyed
+[2019.02.14-12.46.54:346][947]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.14-12.46.54:656][947]LogStaticMesh: Building static mesh Turret1_bp...
+[2019.02.14-12.46.54:882][947]LogStaticMesh: Built static mesh [0.23s] /Game/Game/Mesh/Turret1_bp.Turret1_bp
+[2019.02.14-12.46.54:941][947]LogActorFactory: Actor Factory created Turret1_bp
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush_7' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush2_11' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush4' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush3' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush6' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush5' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush7' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.SphereBrush' is marked pending kill and cannot be converted
+[2019.02.14-12.46.55:406][947]EditorErrors: New page: Actor Reattachment
+[2019.02.14-12.47.08:991][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret1" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1.uasset" SILENT=true
+[2019.02.14-12.47.09:028][240]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret1E8F61DA5455BAFF79048FD9EC6192201.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1.uasset'
+[2019.02.14-12.47.15:895][944]Cmd: DELETE
+[2019.02.14-12.47.15:895][944]Cmd: ACTOR DELETE
+[2019.02.14-12.47.16:195][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.14-12.47.16:221][944]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2019.02.14-12.47.19:461][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.47.30:613][370]LogSlate: Window 'Select Path' being destroyed
+[2019.02.14-12.47.30:868][370]LogStaticMesh: Building static mesh Turret2...
+[2019.02.14-12.47.31:063][370]LogStaticMesh: Built static mesh [0.21s] /Game/Game/Mesh/Turret2.Turret2
+[2019.02.14-12.47.31:172][370]LogActorFactory: Actor Factory created Turret2
+[2019.02.14-12.47.31:437][370]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.ConeBrush_20' is marked pending kill and cannot be converted
+[2019.02.14-12.47.31:437][370]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.ConeBrush2' is marked pending kill and cannot be converted
+[2019.02.14-12.47.31:437][370]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush8_25' is marked pending kill and cannot be converted
+[2019.02.14-12.47.31:437][370]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.SphereBrush2' is marked pending kill and cannot be converted
+[2019.02.14-12.47.31:437][370]EditorErrors: New page: Actor Reattachment
+[2019.02.14-12.47.32:423][435]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.14-12.47.35:054][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.14-12.47.35:080][706]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.02.14-12.47.54:394][754]LogSlate: Window 'Select Path' being destroyed
+[2019.02.14-12.47.55:193][754]LogStaticMesh: Building static mesh Turret3...
+[2019.02.14-12.47.55:569][754]LogStaticMesh: Built static mesh [0.38s] /Game/Game/Mesh/Turret3.Turret3
+[2019.02.14-12.47.55:639][754]LogActorFactory: Actor Factory created Turret3
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush9' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush10' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush11' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush12' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush13' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush14' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush15' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.CylinderBrush16' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.SphereBrush3' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.SpiralStairBrush' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]LogEditor: Error: Actor 'Brush /Game/Game/Level/Monde1.Monde1:PersistentLevel.SpiralStairBrush2' is marked pending kill and cannot be converted
+[2019.02.14-12.47.55:722][754]EditorErrors: New page: Actor Reattachment
+[2019.02.14-12.47.58:407][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.14-12.47.58:433][993]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.02.14-12.48.03:489][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.48.05:236][582]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/BluePrints/AIennemy.AIennemy
+[2019.02.14-12.48.05:730][582]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.14-12.48.06:617][582]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.14-12.49.21:263][420]LogSlate: Took 0.010131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.14-12.49.24:960][806]BlueprintLog: New page: Compile AIennemy
+[2019.02.14-12.50.21:652][543]BlueprintLog: New page: Compile AIennemy
+[2019.02.14-12.50.22:311][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BluePrints/AIennemy" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/BluePrints/AIennemy.uasset" SILENT=true
+[2019.02.14-12.50.22:369][581]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/AIennemyD351ED144BEF48775FBFB5B62DCE9396.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/BluePrints/AIennemy.uasset'
+[2019.02.14-12.50.25:004][830]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/BluePrints/My_Camera.My_Camera
+[2019.02.14-12.51.02:785][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.51.05:836][137]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/BluePrints/AIennemy.AIennemy
+[2019.02.14-12.52.56:135][694]BlueprintLog: New page: Compile AIennemy
+[2019.02.14-12.52.56:885][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BluePrints/AIennemy" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/BluePrints/AIennemy.uasset" SILENT=true
+[2019.02.14-12.52.56:938][749]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/AIennemy3E9834914875FC639A1C549E007C747F.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/BluePrints/AIennemy.uasset'
+[2019.02.14-12.53.07:019][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.14-12.53.11:808][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.53.12:599][484]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Monde12C62186444630F8AFBD8D48CC1919F78.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1.umap'
+[2019.02.14-12.53.12:652][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/Monde1_BuiltData" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1_BuiltData.uasset" SILENT=true
+[2019.02.14-12.53.13:476][484]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Monde1_BuiltDataE01359734F0F7E92E62FF4BE2A9111E8.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1_BuiltData.uasset'
+[2019.02.14-12.53.29:581][368]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (musique-jeu)
+[2019.02.14-12.53.31:178][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.53.34:379][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.14-12.53.35:774][ 45]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (musique-jeu)
+[2019.02.14-12.53.36:965][157]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume19)
+[2019.02.14-12.53.37:525][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.14-12.53.37:948][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.53.37:996][261]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.14-12.53.38:024][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-12.53.38:024][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.14-12.53.38:024][261]PIE: New page: PIE session: Monde1 (14 févr. 2019 14:53:38)
+[2019.02.14-12.53.38:037][261]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Monde1
+[2019.02.14-12.53.38:079][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041470s)
+[2019.02.14-12.53.38:079][261]LogAIModule: Creating AISystem for world Monde1
+[2019.02.14-12.53.38:080][261]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2019.02.14-12.53.38:080][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Monde1.Monde1 to /Game/Game/Level/UEDPIE_0_Monde1.Monde1 (0.042527s)
+[2019.02.14-12.53.38:137][261]LogInit: XAudio2 using 'Casque pour téléphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-12.53.38:200][261]LogInit: FAudioDevice initialized.
+[2019.02.14-12.53.38:250][261]LogLoad: Game class is 'Top_Mode_C'
+[2019.02.14-12.53.38:255][261]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Monde1.Monde1 up for play (max tick rate 0) at 2019.02.14-13.53.38
+[2019.02.14-12.53.38:256][261]LogWorld: Bringing up level for play took: 0.003748
+[2019.02.14-12.53.38:281][261]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.14-12.53.38:281][261]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-12.53.38:281][261]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-12.53.38:281][261]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-12.53.38:284][261]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-12.53.38:284][261]PIE: Play in editor start time for /Game/Game/Level/UEDPIE_0_Monde1 1,138
+[2019.02.14-12.53.38:284][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-12.53.44:798][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-12.53.44:799][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-12.53.44:835][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.14-12.53.44:836][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-12.53.44:870][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-12.53.44:902][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.14-12.54.29:354][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.54.37:846][734]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.14-12.54.47:076][683]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.14-12.54.57:294][541]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.14-12.55.03:478][200]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Mesh/Turret1_bp.Turret1_bp
+[2019.02.14-12.55.03:972][200]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-12.55.40:224][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.55.40:286][126]BlueprintLog: New page: Compile Turret1_bp
+[2019.02.14-12.55.41:177][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret1_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset" SILENT=true
+[2019.02.14-12.55.41:204][182]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret1_bpDBD0C0F44DBDA65D6F7585828F693D31.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset'
+[2019.02.14-12.56.03:981][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.56.27:966][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.56.28:034][262]BlueprintLog: New page: Compile Turret1_bp
+[2019.02.14-12.56.29:281][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret1_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset" SILENT=true
+[2019.02.14-12.56.29:372][341]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret1_bpEAB2283F43C244883C4F68847DAD44E2.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset'
+[2019.02.14-12.56.42:398][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.56.42:464][529]BlueprintLog: New page: Compile Turret1_bp
+[2019.02.14-12.56.43:064][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret1_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset" SILENT=true
+[2019.02.14-12.56.43:114][558]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret1_bp5DF4C7CD426960398AA31D9E1E6EA092.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset'
+[2019.02.14-12.56.44:127][642]LogSlate: Window 'Turret1_bp' being destroyed
+[2019.02.14-12.56.45:816][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.56.46:780][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Mesh/turret2_bp.turret2_bp
+[2019.02.14-12.57.16:659][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.57.23:473][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-12.57.26:476][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.57.37:289][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.57.47:344][855]BlueprintLog: New page: Compile turret2_bp
+[2019.02.14-12.57.48:082][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/turret2_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/turret2_bp.uasset" SILENT=true
+[2019.02.14-12.57.48:115][902]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/turret2_bp7BD8E05A40553BE67A933284B60D68E3.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/turret2_bp.uasset'
+[2019.02.14-12.57.48:972][974]LogSlate: Window 'turret2_bp' being destroyed
+[2019.02.14-12.57.51:030][113]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Mesh/Turret1_bp.Turret1_bp
+[2019.02.14-12.57.56:679][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-12.58.00:886][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.58.00:909][749]BlueprintLog: New page: Compile Turret1_bp
+[2019.02.14-12.58.01:817][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret1_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset" SILENT=true
+[2019.02.14-12.58.01:859][802]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret1_bp098B054E4D0CF6662106D49EED3BB371.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset'
+[2019.02.14-12.58.02:701][867]LogSlate: Window 'Turret1_bp' being destroyed
+[2019.02.14-12.58.04:782][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.58.04:945][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Mesh/Turret3_bp.Turret3_bp
+[2019.02.14-12.58.38:707][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-12.59.02:380][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-12.59.05:922][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-12.59.23:993][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.59.34:047][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.59.34:086][572]BlueprintLog: New page: Compile Turret3_bp
+[2019.02.14-12.59.34:728][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret3_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret3_bp.uasset" SILENT=true
+[2019.02.14-12.59.34:759][603]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret3_bp78655FC0482EF54317636D992DA004D5.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret3_bp.uasset'
+[2019.02.14-12.59.43:188][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.59.43:241][372]BlueprintLog: New page: Compile Turret3_bp
+[2019.02.14-12.59.43:841][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret3_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret3_bp.uasset" SILENT=true
+[2019.02.14-12.59.43:898][399]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret3_bpA1E8356A446B665E80B2A5A4697D71EB.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret3_bp.uasset'
+[2019.02.14-12.59.44:524][443]LogSlate: Window 'Turret3_bp' being destroyed
+[2019.02.14-12.59.46:108][536]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Mesh/turret2_bp.turret2_bp
+[2019.02.14-12.59.50:438][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-12.59.51:639][962]BlueprintLog: New page: Compile turret2_bp
+[2019.02.14-12.59.52:191][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/turret2_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/turret2_bp.uasset" SILENT=true
+[2019.02.14-12.59.52:239][987]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/turret2_bp3FCB4DA742D968380D651E824BB47165.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/turret2_bp.uasset'
+[2019.02.14-12.59.53:172][ 57]LogSlate: Window 'turret2_bp' being destroyed
+[2019.02.14-12.59.55:524][233]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Game/Mesh/Turret1_bp.Turret1_bp
+[2019.02.14-13.00.01:701][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.00.02:747][804]BlueprintLog: New page: Compile Turret1_bp
+[2019.02.14-13.00.03:403][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret1_bp" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset" SILENT=true
+[2019.02.14-13.00.03:442][839]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret1_bpBC635D214BC85C9009D70FBD3BFE7646.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret1_bp.uasset'
+[2019.02.14-13.00.04:143][890]LogSlate: Window 'Turret1_bp' being destroyed
+[2019.02.14-13.00.09:016][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.00.28:786][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.00.46:150][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.01.09:029][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.01.10:242][843]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.02.14-13.01.29:471][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.01.30:207][798]LogEditorViewport: Clicking on Actor (LMB): Turret3_bp_C (Turret3_bp)
+[2019.02.14-13.01.42:856][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.14-13.01.43:891][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.01.43:933][361]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.14-13.01.43:960][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-13.01.43:960][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.14-13.01.43:960][361]PIE: New page: PIE session: Monde1 (14 févr. 2019 15:01:43)
+[2019.02.14-13.01.43:960][361]LogPlayLevel: Creating play world package: /Game/Game/Level/UEDPIE_0_Monde1
+[2019.02.14-13.01.44:000][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039936s)
+[2019.02.14-13.01.44:000][361]LogAIModule: Creating AISystem for world Monde1
+[2019.02.14-13.01.44:001][361]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.02.14-13.01.44:001][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Level/Monde1.Monde1 to /Game/Game/Level/UEDPIE_0_Monde1.Monde1 (0.040761s)
+[2019.02.14-13.01.44:061][361]LogInit: XAudio2 using 'Casque pour téléphone (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-13.01.44:119][361]LogInit: FAudioDevice initialized.
+[2019.02.14-13.01.44:153][361]LogLoad: Game class is 'Top_Mode_C'
+[2019.02.14-13.01.44:157][361]LogWorld: Bringing World /Game/Game/Level/UEDPIE_0_Monde1.Monde1 up for play (max tick rate 0) at 2019.02.14-14.01.44
+[2019.02.14-13.01.44:158][361]LogWorld: Bringing up level for play took: 0.004678
+[2019.02.14-13.01.44:171][361]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-13.01.44:171][361]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-13.01.44:171][361]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-13.01.44:172][361]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-13.01.44:172][361]PIE: Play in editor start time for /Game/Game/Level/UEDPIE_0_Monde1 1,026
+[2019.02.14-13.01.44:173][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-13.01.51:519][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-13.01.51:519][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-13.01.51:552][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.14-13.01.51:553][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/Level/Monde1.Monde1:PersistentLevel' has LevelScriptBlueprint '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1' with GeneratedClass '/Game/Game/Level/Monde1.Monde1_C' with ClassGeneratedBy '/Game/Game/Level/Monde1.Monde1:PersistentLevel.Monde1'
+[2019.02.14-13.01.51:587][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-13.01.51:622][237]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.14-13.01.52:717][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.01.52:800][374]MapCheck: New page: Map Check
+[2019.02.14-13.01.52:832][374]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.14-13.01.52:833][374]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.14-13.01.53:281][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.14-13.01.53:365][374]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.14-13.01.53:365][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2019.02.14-13.01.53:377][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Grass1, compiling. 
+[2019.02.14-13.01.53:390][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy rock_01_mat, compiling. 
+[2019.02.14-13.01.53:399][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Feuilles, compiling. 
+[2019.02.14-13.01.53:435][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bois, compiling. 
+[2019.02.14-13.01.53:443][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy rock_02_mat, compiling. 
+[2019.02.14-13.01.53:451][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bricks_Mat, compiling. 
+[2019.02.14-13.01.53:460][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Metal_Mat, compiling. 
+[2019.02.14-13.01.53:467][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy White, compiling. 
+[2019.02.14-13.01.53:477][374]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.14-13.01.55:595][374]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.14-13.01.55:595][374]TextureStreamingBuild: Display: Compiling optional shaders took 2.326 seconds.
+[2019.02.14-13.01.55:684][374]LogLevel: Display: Export Material TexCoord Scales took 0.090 seconds.
+[2019.02.14-13.01.55:737][374]TextureStreamingBuild: Display: Build Texture Streaming took 0.051 seconds.
+[2019.02.14-13.01.55:794][374]LightingResults: New page: Lighting Build - 14 févr. 2019 15:01:55
+[2019.02.14-13.01.55:868][374]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.02.14-13.01.56:435][374]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.14-13.01.56:753][374]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.14-13.01.56:846][374]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.14-13.01.59:572][374]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.02.14-13.01.59:687][374]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée 127.0.0.1:8008
+
+Server stack trace: 
+   à System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   à System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   à System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   à System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   à System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   à System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   à NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   à NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) dans D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:ligne 2811
+[2019.02.14-13.02.05:137][374]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.14-13.02.05:137][374]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4948
+[2019.02.14-13.02.10:029][374]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.14-13.02.10:031][374]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.14-13.02.10:031][374]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.14-13.02.10:031][374]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.14-13.02.10:032][374]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.14-13.02.10:032][374]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.14-13.02.10:863][374]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.14-13.02.10:863][374]MapCheck: New page: Monde1 - 14 févr. 2019 15:02:10
+[2019.02.14-13.02.10:884][374]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.02.14-13.02.10:936][374]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 73,496ms to complete.
+[2019.02.14-13.02.10:960][374]LogEditorBuildUtils: Build time 0:18
+[2019.02.14-13.02.31:366][991]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.31:366][991]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.31:563][  9]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.31:563][  9]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.31:783][ 29]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.31:783][ 29]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:024][ 51]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.32:024][ 51]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:221][ 69]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.32:221][ 69]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:408][ 86]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.32:408][ 86]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:485][ 93]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.32:485][ 93]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:583][102]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.32:595][103]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:649][108]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.32:649][108]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:759][118]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.32:759][118]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:858][127]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.32:858][127]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.32:945][135]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.32:945][135]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.33:022][142]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.33:022][142]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.33:110][150]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.33:110][150]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.33:318][169]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.33:318][169]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.33:516][187]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.33:516][187]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.33:713][205]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.33:724][206]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.33:910][223]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.33:910][223]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:130][243]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:130][243]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:228][252]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:228][252]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:294][258]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.34:294][258]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:338][262]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:338][262]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:382][266]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.34:382][266]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:437][271]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:437][271]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:547][281]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:547][281]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:656][291]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:656][291]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:755][300]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:755][300]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:777][302]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.34:777][302]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:865][310]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:865][310]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.34:963][319]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.34:963][319]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.35:073][329]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.35:073][329]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.35:172][338]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.35:172][338]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.35:270][347]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.35:270][347]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.35:357][355]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.35:368][356]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.35:643][381]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.02.35:643][381]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.39:409][725]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.39:409][725]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.39:661][748]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.39:661][748]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.39:880][768]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.39:880][768]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.40:154][793]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.40:154][793]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.40:219][799]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.40:219][799]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.02.40:340][810]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.02.40:340][810]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.03.26:805][963]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2019.02.14-13.03.27:198][963]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Monde1_Auto1EFC197354F87736AB6FAA9A663961F45.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Autosaves/Game/Game/Level/Monde1_Auto1.umap'
+[2019.02.14-13.03.27:211][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game/Level/Monde1' took 0.612
+[2019.02.14-13.03.27:211][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.612
+[2019.02.14-13.03.27:214][963]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Mesh/Turret2] ([1] browsable assets)...
+[2019.02.14-13.03.27:227][963]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Game/Mesh/Turret2.Turret2]
+[2019.02.14-13.03.27:227][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Mesh/Turret2]
+[2019.02.14-13.03.27:257][963]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret2_Auto1E0C30EAA4450D01D40169C905931F290.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Autosaves/Game/Game/Mesh/Turret2_Auto1.uasset'
+[2019.02.14-13.03.27:258][963]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Mesh/Turret3] ([1] browsable assets)...
+[2019.02.14-13.03.27:271][963]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Game/Mesh/Turret3.Turret3]
+[2019.02.14-13.03.27:271][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Mesh/Turret3]
+[2019.02.14-13.03.27:300][963]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret3_Auto1C252C107414A10D47526EB80CE83ADF6.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Autosaves/Game/Game/Mesh/Turret3_Auto1.uasset'
+[2019.02.14-13.03.27:301][963]LogFileHelpers: Auto-saving content packages took 0.089
+[2019.02.14-13.04.22:246][957]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.22:246][957]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.22:333][965]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.22:333][965]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.22:487][979]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.22:487][979]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.22:619][991]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.22:619][991]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.22:761][  4]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.22:761][  4]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.22:860][ 13]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.22:860][ 13]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:024][ 28]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:024][ 28]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:112][ 36]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:112][ 36]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:276][ 51]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:276][ 51]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:386][ 61]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:386][ 61]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:528][ 74]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:528][ 74]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:735][ 93]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:735][ 93]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.23:833][102]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.23:833][102]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:052][122]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.24:052][122]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:228][138]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.24:228][138]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:447][158]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.24:447][158]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:557][168]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.24:557][168]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:688][180]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.24:688][180]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:808][191]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.24:808][191]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.24:962][205]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.24:962][205]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:126][220]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.25:126][220]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:235][230]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.25:235][230]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:410][246]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.25:410][246]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:509][255]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.25:509][255]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:661][269]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.25:661][269]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:782][280]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.25:782][280]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.25:901][291]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.25:901][291]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:054][305]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:054][305]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:208][319]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:208][319]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:284][326]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:284][326]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:427][339]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:427][339]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:548][350]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:548][350]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:679][362]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:679][362]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:811][374]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:811][374]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.26:997][391]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.26:997][391]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:085][399]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:085][399]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:283][417]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:283][417]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:370][425]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:370][425]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:468][434]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:468][434]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:687][454]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:687][454]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:764][461]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:764][461]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.27:852][469]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.27:852][469]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:016][484]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:016][484]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:268][507]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:268][507]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:356][515]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:356][515]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:498][528]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:498][528]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:652][542]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:652][542]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:751][551]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:751][551]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.28:906][565]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.28:906][565]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:059][579]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.29:059][579]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:257][597]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.29:257][597]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:334][604]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.29:334][604]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:520][621]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.29:520][621]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:607][629]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.29:607][629]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:727][640]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.29:727][640]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.29:958][661]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.29:958][661]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:067][671]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.30:067][671]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:188][682]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.30:188][682]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:396][701]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.30:396][701]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:505][711]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.30:505][711]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:614][721]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.30:614][721]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:713][730]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.30:713][730]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:856][743]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.30:856][743]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.30:976][754]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.30:976][754]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:097][765]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.31:097][765]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:273][781]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.31:273][781]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:360][789]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.31:360][789]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:590][810]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.31:590][810]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:678][818]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.31:678][818]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:832][832]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.31:832][832]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.31:952][843]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.31:952][843]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.32:127][859]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.32:127][859]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.32:259][871]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.32:259][871]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.32:445][888]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.32:445][888]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.32:555][898]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.32:555][898]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.32:773][918]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.32:773][918]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.32:861][926]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.32:861][926]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:036][942]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:036][942]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:146][952]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:146][952]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:333][969]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:333][969]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:431][978]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:431][978]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:616][995]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:616][995]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:748][  7]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:748][  7]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:836][ 15]LightingResults: Warning: Tree01 Object has overlapping UVs.
+[2019.02.14-13.04.33:847][ 16]LightingResults: Tree01 Lightmap UV are overlapping by 99.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.33:989][ 29]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.33:989][ 29]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:121][ 41]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:132][ 42]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:219][ 50]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:219][ 50]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:329][ 60]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:329][ 60]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:427][ 69]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:427][ 69]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:547][ 80]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:547][ 80]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:602][ 85]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:602][ 85]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:745][ 98]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:745][ 98]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:865][109]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:865][109]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.34:909][113]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.34:909][113]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:041][125]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:041][125]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:150][135]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:150][135]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:260][145]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:260][145]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:293][148]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:293][148]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:415][159]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:415][159]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:522][169]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:522][169]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:544][171]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:555][172]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:676][183]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:676][183]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:786][193]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:786][193]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:819][196]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:819][196]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.35:928][206]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.35:928][206]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:060][218]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:060][218]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:115][223]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:126][224]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:258][236]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:258][236]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:410][250]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:410][250]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:497][258]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:497][258]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:552][263]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:552][263]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:684][275]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:684][275]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.36:706][277]LightingResults: Warning: Tree02 Object has overlapping UVs.
+[2019.02.14-13.04.36:706][277]LightingResults: Tree02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.41:593][722]LightingResults: Warning: Tree03 Object has overlapping UVs.
+[2019.02.14-13.04.41:593][722]LightingResults: Tree03 Lightmap UV are overlapping by 99.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.02.14-13.04.58:640][285]Job is a success!
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.147s
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.3Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport:          1: 5.8% covering 5.5% of volume
+[2019.02.14-13.04.58:889][286]LogVolumetricLightmapImport:          2: 92.5% covering 1.4% of volume
+[2019.02.14-13.05.04:040][286]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.02.14-13.05.04:040][286]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.02.14-13.05.04:040][286]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.02.14-13.05.04:040][286]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.02.14-13.05.04:240][286]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.02.14-13.05.04:339][286]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.02.14-13.05.04:340][286]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.02.14-13.05.05:003][286]Lightmass on DESKTOP-HUMBH2S: 2:50 min total, 1.74 sec importing, 1.04 sec setup, 7.27 sec photons, 2:40 min processing, 0 ms extra exporting [523/523 mappings]. Threads: 10:41 min total, 1:13 min processing.
+[2019.02.14-13.05.05:071][286]LogStaticLightingSystem: Illumination: 3:09 min (4.26 sec encoding lightmaps, 296 ms encoding shadowmaps)
+[2019.02.14-13.05.05:071][286]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.02.14-13.05.05:071][286]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.02.14-13.05.05:091][286]DumpUnbuiltLightIteractions
+[2019.02.14-13.05.05:091][286]Lights with unbuilt interactions: 0
+[2019.02.14-13.05.05:091][286]
+[2019.02.14-13.05.05:091][286]Primitives with unbuilt interactions: 0
+[2019.02.14-13.05.05:152][287]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.14-13.05.05:152][287]MapCheck: New page: Monde1 - 14 févr. 2019 15:05:05
+[2019.02.14-13.05.05:153][287]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,291ms to complete.
+[2019.02.14-13.06.01:316][ 10]LogSlate: Window 'Message Log' being destroyed
+[2019.02.14-13.06.01:329][ 10]LogSlate: Window 'Message Log' being destroyed
+[2019.02.14-13.06.11:364][199]Cmd: SELECT NONE
+[2019.02.14-13.06.12:747][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-13.06.14:928][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-13.06.15:537][580]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Monde1AAF8C1F1473D192DE3A80783D6955735.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1.umap'
+[2019.02.14-13.06.15:590][580]LogFileHelpers: Saving map 'Monde1' took 0.652
+[2019.02.14-13.06.15:593][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Level/Monde1_BuiltData" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1_BuiltData.uasset" SILENT=true
+[2019.02.14-13.06.16:137][580]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Monde1_BuiltDataDBCEC9A44460FF7892697F93CD4B20EC.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Level/Monde1_BuiltData.uasset'
+[2019.02.14-13.06.16:151][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret2" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret2.uasset" SILENT=true
+[2019.02.14-13.06.16:168][580]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret2FDB9A8FD4909CFFF74506498862E497F.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret2.uasset'
+[2019.02.14-13.06.16:180][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Mesh/Turret3" FILE="../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret3.uasset" SILENT=true
+[2019.02.14-13.06.16:199][580]LogSavePackage: Moving '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Saved/Turret32E4643344935E5988A1775B3F35FE9A6.tmp' to '../../../../../../Users/thiir/Documents/Unreal Projects/CPP_Defender/Content/Game/Mesh/Turret3.uasset'
+[2019.02.14-13.06.30:988][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.06.31:192][355]LogSlate: Window 'CPP_Defender - Unreal Editor' being destroyed
+[2019.02.14-13.06.31:439][356]Cmd: QUIT_EDITOR
+[2019.02.14-13.06.31:564][356]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.14-13.06.31:588][356]LogExit: Preparing to exit.
+[2019.02.14-13.06.32:128][356]LogExit: Editor shut down
+[2019.02.14-13.06.32:129][356]LogExit: Transaction tracking system shut down
+[2019.02.14-13.06.32:376][356]LogExit: Object subsystem successfully closed.
+[2019.02.14-13.06.32:393][356]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.14-13.06.32:396][356]LogD3D11RHI: Shutdown
+[2019.02.14-13.06.32:397][356]LogD3D11RHI: CleanupD3DDevice
+[2019.02.14-13.06.32:407][356]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.14-13.06.32:440][356]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.02.14-13.06.32:440][356]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.02.14-13.06.32:440][356]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.02.14-13.06.32:449][356]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2019.02.14-13.06.32:449][356]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.02.14-13.06.32:449][356]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.02.14-13.06.32:449][356]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.02.14-13.06.32:449][356]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.14-13.06.32:460][356]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.14-13.06.32:461][356]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.14-13.06.32:462][356]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.14-13.06.32:462][356]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.14-13.06.33:095][356]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.14-13.06.33:096][356]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.14-13.06.33:097][356]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.14-13.06.33:097][356]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.14-13.06.33:097][356]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.14-13.06.33:097][356]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.14-13.06.33:151][356]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.14-13.06.33:152][356]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.14-13.06.33:157][356]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.14-13.06.33:157][356]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.14-13.06.33:159][356]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.14-13.06.33:159][356]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.14-13.06.33:159][356]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.14-13.06.33:159][356]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.14-13.06.33:159][356]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.14-13.06.33:159][356]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.14-13.06.33:160][356]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.14-13.06.33:165][356]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.14-13.06.33:340][356]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.14-13.06.33:340][356]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.14-13.06.33:340][356]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.14-13.06.33:340][356]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.14-13.06.33:341][356]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.14-13.06.33:341][356]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.14-13.06.33:341][356]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.14-13.06.33:341][356]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.14-13.06.33:341][356]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.14-13.06.33:341][356]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.14-13.06.33:343][356]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.14-13.06.33:389][356]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.14-13.06.33:390][356]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.14-13.06.33:401][356]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.14-13.06.33:503][356]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.14-13.06.33:604][356]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.14-13.06.33:605][356]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.14-13.06.33:605][356]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.14-13.06.33:605][356]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.14-13.06.33:606][356]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.14-13.06.33:609][356]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.14-13.06.33:615][356]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.14-13.06.33:617][356]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.14-13.06.33:701][356]LogDerivedDataCache: Shutdown
+[2019.02.14-13.06.33:701][356]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.14-13.06.33:701][356]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.14-13.06.33:701][356]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.14-13.06.33:702][356]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.14-13.06.33:703][356]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.14-13.06.33:703][356]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.14-13.06.33:703][356]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.14-13.06.33:703][356]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.14-13.06.33:704][356]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.14-13.06.33:704][356]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.14-13.06.33:704][356]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.14-13.06.33:704][356]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.14-13.06.33:711][356]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.14-13.06.33:711][356]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.14-13.06.33:712][356]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.14-13.06.33:712][356]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.14-13.06.33:745][356]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.14-13.06.33:745][356]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.14-13.06.33:745][356]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5090BAFC-410D-EF54-4FBA-46B7714D5CBE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4294641048fb8428341a0482a71f36db%7C68f7f9624c6c4d06a6991b762e34dba4%7Ca65f350e-8069-4d61-852d-360fd0b1ac08&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.14-13.06.33:747][356]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.14-13.06.33:748][356]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.14-13.06.33:748][356]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.14-13.06.33:749][356]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.14-13.06.33:750][356]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.14-13.06.33:757][356]LogExit: Exiting.
+[2019.02.14-13.06.33:779][356]Log file closed, 02/14/19 14:06:33
